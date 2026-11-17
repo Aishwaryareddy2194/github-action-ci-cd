@@ -1,6 +1,7 @@
 ## 1. Project Overview
 
 This project demonstrates the implementation of Continuous Integration and Continuous Deployment (CI/CD) using GitHub Actions.
+
 The main objective is to automate code quality checks and unit testing whenever developers push code or create Pull Requests.
 
 ## 2. Project Objectives
@@ -144,4 +145,5 @@ Refer to (CODE_OF_CONDUCT.md).
 ## 10. License
 
 This project is intended to use the MIT License.
+
 Refer to the LICENSE file for licensing information.
